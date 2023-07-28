@@ -47,7 +47,7 @@ I will be using these two platforms for designing:
 
 ## Product
 
-![Canva](./final_product/AOS%20poster.jpg)
+![Canva](./final_product/AOS%20poster.png)
 
 
 
